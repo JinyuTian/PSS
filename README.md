@@ -1,7 +1,7 @@
 # PSS
 The code of our our CVPR paper: Probabilistic Selective Encryption of Convolutional Neural Networks for Hierarchical Services 
 
-# Probabilistic Selective Encryption of Convolution Neural Networks for Hierarchical Services (Paper ID: 3239)
+# Probabilistic Selective Encryption of Convolution Neural Networks for Hierarchical Services
 
 
 ## Preliminaries
